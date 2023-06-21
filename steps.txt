@@ -4,3 +4,4 @@ setps"
 - python , git extension
 - created folder in local, opened in vsc ode
 - initialize repository
+- set git path in settings.json of vs code
