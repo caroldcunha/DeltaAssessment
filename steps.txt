@@ -1,0 +1,6 @@
+setps"
+
+- installed vs code
+- python , git extension
+- created folder in local, opened in vsc ode
+- initialize repository
